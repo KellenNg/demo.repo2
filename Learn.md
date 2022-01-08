@@ -1,6 +1,5 @@
 CUHK Ng Hoi Lun
 Qfin Year1 Sem1 Grade
-<<<<<<< HEAD
 Math1010
 DSME1030
 ACCT1111
@@ -9,13 +8,3 @@ CLCP2703
 CHLP1000
 PHED1027
 CGPA :
-=======
-Math1010 :A
-DSME1030 :A-
-ACCT1111 :A
-ENGG1000 :B+
-CLCP2703 :A
-CHLP1000 :B+
-PHED1027 :A-
-CGPA :3.76
->>>>>>> predict-grade
