@@ -1,7 +1,7 @@
 CUHK Ng Hoi Lun
 Qfin Year1 Sem1 Grade
 Math1010 :4.0(A)
-DSME1030 :
+DSME1030 :3.7(A-)
 ACCT1111 :4.0(A)
 ENGG1000 :3.3(B+)
 CLCP2703 :3.7(A-)
