@@ -9,10 +9,15 @@ CHLP1000 :3.3(B+)
 PHED1027 :3.3(B+)
 CGPA : 3.688
 
-Qfin Year1 Sem2 Grade(predict)
-Math1030 :
-DSME1040 :
-FINA2010 :
-UGFN1000 :
-ELTU1001 :
+Qfin Year1 Sem2 Grad
+Math1030 :4.0(A)
+DSME1040 :3.7(A-)
+FINA2010 :4.0(A)
+UGFN1000 :3.3(B+)
+ELTU1001 :3.0(B)
 PHED1021 :未知()
+CGPA : 3.526
+
+Qfin Year1 Grade
+CGPA : 3.627
+Mgpa : 4.0
